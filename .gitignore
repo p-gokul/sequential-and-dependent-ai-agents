@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+
+bun.lock
+package-json.lock
+pnpm-lock.yaml
+
+.env
